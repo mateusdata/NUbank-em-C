@@ -1,2 +1,2 @@
-# NUbank-em-C
-Replica do Nubank em na linguagem C 
+# NUbank em linguagem <C>
+Replica do Nubank em na linguagem <C> 
